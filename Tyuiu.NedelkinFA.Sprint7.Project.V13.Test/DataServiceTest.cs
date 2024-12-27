@@ -12,7 +12,7 @@ namespace Tyuiu.NedelkinFA.Sprint7.Project.V13.Test
         [SetUp]
         public void SetUp()
         {
-            // Инициализируем DataService перед каждым тестом
+            // Инициализируем DataService перед каждым тестом 
             _dataService = new DataService();
         }
 
